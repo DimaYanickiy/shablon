@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918796589783",
+    "project_id": "calcmaster-3b39c",
+    "storage_bucket": "calcmaster-3b39c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918796589783:android:9cca4929c27282fa5c2e92",
+        "android_client_info": {
+          "package_name": "com.calc.mathter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918796589783-jj763i7t00jlra70iuamarprr69s7lij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoKHA2M6ImdzyIGr_P0AgotQaXWl3iwVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918796589783-jj763i7t00jlra70iuamarprr69s7lij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
